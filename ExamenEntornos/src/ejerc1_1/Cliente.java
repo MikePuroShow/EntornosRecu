@@ -8,6 +8,9 @@ public class Cliente {
     private String telefonoTrabajo;
     private String prefijoTelefonoCasa;
     private String telefonoCasa;
+    
+    
+    
 
     public Cliente() {
     }

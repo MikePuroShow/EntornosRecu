@@ -13,6 +13,7 @@ public class Cliente {
     
 
     public Cliente() {
+    	System.out.println("EEEEE");
     }
 
     public String getNombre() {
